@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_dictref_foo">
+    <sn_dictref_foo action="INSERT_OR_UPDATE">
+        <bar>test</bar>
+        <refcol display_value="REFCol" element="refcol" name="sn_dictref_foo">d2a8361177801010ca3ab5b268106148</refcol>
+        <sys_class_name>sn_dictref_foo</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-07 17:50:39</sys_created_on>
+        <sys_id>4cf87a1177801010ca3ab5b268106148</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DictRef" source="sn_dictref">4b88b21177801010ca3ab5b2681061b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DictRef">4b88b21177801010ca3ab5b2681061b5</sys_scope>
+        <sys_update_name>sn_dictref_foo_4cf87a1177801010ca3ab5b268106148</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-07 17:50:39</sys_updated_on>
+    </sn_dictref_foo>
+</record_update>
