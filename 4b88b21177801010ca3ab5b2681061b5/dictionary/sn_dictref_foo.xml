@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element attributes="update_synch=true" extends="sys_metadata" label="Foo" max_length="40" name="sn_dictref_foo" type="collection">
         <element label="Bar" max_length="100" name="bar" type="string"/>
-        <element label="REFCol" max_length="32" name="refcol" reference="sys_dictionary" type="reference"/>
+        <element label="REFCol" max_length="32" name="refcol" reference="sys_dictionary" reference_qual="nameLIKEsn_dictref^EQ" reference_qual_condition="nameLIKEsn_dictref^EQ" type="reference"/>
         <index name="index">
             <element name="refcol"/>
         </index>

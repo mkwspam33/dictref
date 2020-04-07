@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sn_dictref_foo">
     <sn_dictref_foo action="INSERT_OR_UPDATE">
         <bar>test</bar>
-        <refcol display_value="REFCol" element="refcol" name="sn_dictref_foo">d2a8361177801010ca3ab5b268106148</refcol>
+        <refcol display_value="REFCol" element="refcol" name="sn_dictref_foo">fc897ad577001010ca3ab5b268106167</refcol>
         <sys_class_name>sn_dictref_foo</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-04-07 17:50:39</sys_created_on>

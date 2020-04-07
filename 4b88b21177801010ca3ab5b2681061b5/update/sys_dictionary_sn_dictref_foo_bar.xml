@@ -53,7 +53,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-04-07 17:49:48</sys_created_on>
-        <sys_id>f6c8761177801010ca3ab5b2681061a2</sys_id>
+        <sys_id>74897ad577001010ca3ab5b268106166</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Bar</sys_name>
         <sys_package display_value="DictRef" source="sn_dictref">4b88b21177801010ca3ab5b2681061b5</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="DictRef">4b88b21177801010ca3ab5b2681061b5</sys_scope>
         <sys_update_name>sys_dictionary_sn_dictref_foo_bar</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-04-07 17:49:48</sys_updated_on>
+        <sys_updated_on>2020-04-07 17:52:33</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
